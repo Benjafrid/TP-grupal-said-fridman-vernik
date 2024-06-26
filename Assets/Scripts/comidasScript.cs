@@ -8,6 +8,7 @@ public class comidasScript : MonoBehaviour
     public GameObject[] producto2;
     int productoizquierdo;
     int productoderecho;
+    public int precioComida;
 
     // Start is called before the first frame update
     void Start()
